@@ -1,0 +1,10 @@
+{
+  "name": "xiaoqing-test-9-9",
+  "provider": "",
+  "description": "",
+  "version": "1.0.0",
+  "icon": "",
+  "dockerRegistry": "docker.io/xiaoqing2chen",
+  "helmChartVersion": "1.0.0",
+  "parameters": []
+}
